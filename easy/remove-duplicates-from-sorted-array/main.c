@@ -18,6 +18,7 @@ int removeDuplicates(int* nums, int numsSize) {
   return count;
 }
 
+
 int main(void) {
   int nums[11] = {0,0,1,1,1,2,2,3,3,4};
   int total = 10;
