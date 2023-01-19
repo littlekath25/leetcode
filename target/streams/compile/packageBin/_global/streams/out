@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/aco2023_3-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	generated[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/generated[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RomanToInterger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/RomanToInterger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RomanToInterger.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/RomanToInterger.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RomanToInterger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/RomanToInterger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/TwoSum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/TwoSum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/Something.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/Something.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/IsPalindrome.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/IsPalindrome.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/TwoSum.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/TwoSum.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/Something$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/Something$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/TwoSum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/TwoSum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/IsPalindrome$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/IsPalindrome$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/IsPalindrome.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/IsPalindrome.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leetcode2023/Something.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/katherine/Desktop/Personal/leetcode/target/scala-3.2.1/classes/Leetcode2023/Something.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

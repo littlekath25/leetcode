@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(3d0dabfe-5d1e-4ee3-aada-1d4921836ca7), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/katherine/Desktop/Personal/AOC2023/target/scala-3.2.1/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /Users/katherine/Desktop/Personal/AOC2023/src/main/scala/Day24.scala:122:14 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m122 |[0m              [33mreturn[0m time[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m              ^^^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0mNon local returns are no longer supported; use scala.util.control.NonLocalReturns instead[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 25 Dec 2022, 12:07:26[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

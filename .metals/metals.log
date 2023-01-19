@@ -1,0 +1,472 @@
+2023.01.18 18:10:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/katherine/Desktop/Personal/leetcode/.metals/lsp.trace.json or /Users/katherine/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2023.01.18 18:10:35 INFO  logging to file /Users/katherine/Desktop/Personal/leetcode/.metals/metals.log[0m
+2023.01.18 18:10:35 INFO  Started: Metals version 0.11.10 in workspace '/Users/katherine/Desktop/Personal/leetcode' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/katherine/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.18 18:10:37 INFO  time: initialize in 1.81s[0m
+2023.01.18 18:10:43 WARN  Build server is not auto-connectable.[0m
+2023.01.18 18:11:01 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:11:09 INFO  no build target found for /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala. Using presentation compiler with project's scala-library version: 3.2.1[0m
+2023.01.18 18:11:10 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+Jan 18, 2023 6:11:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jan 18, 2023 6:11:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2023.01.18 18:11:11 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+Jan 18, 2023 6:11:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2023.01.18 18:11:15 INFO  time: code lens generation in 13s[0m
+2023.01.18 18:11:15 INFO  time: code lens generation in 4.7s[0m
+2023.01.18 18:11:15 INFO  time: code lens generation in 4.84s[0m
+2023.01.18 18:11:15 INFO  time: code lens generation in 4.54s[0m
+2023.01.18 18:11:15 INFO  time: code lens generation in 4.24s[0m
+2023.01.18 18:11:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:11:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+Jan 18, 2023 6:11:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2023.01.18 18:11:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:11:15 WARN Jan 18, 2023 6:11:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+ no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:11:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:11:17 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:11:34 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:11:51 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/utils/Day22.scala[0m
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.01.18 18:12:00 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:01 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:03 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:08 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:12 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:13 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:13 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:36 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:52 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:12:54 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+Jan 18, 2023 6:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 184
+2023.01.18 18:12:57 INFO  time: code lens generation in 1.65s[0m
+2023.01.18 18:12:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+Jan 18, 2023 6:13:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 209
+2023.01.18 18:13:02 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:13:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:13:08 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+Jan 18, 2023 6:13:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 520, end 559, length 549
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 520, end 559, length 549
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 520, end 559, length 549
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4604)
+	at java.base/java.lang.String.substring(String.java:2707)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:677)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:57)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:52)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:51)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.01.18 18:13:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:13:16 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:13:22 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:13:25 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+Jan 18, 2023 6:13:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 515, end 554, length 551
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 515, end 554, length 551
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 515, end 554, length 551
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4604)
+	at java.base/java.lang.String.substring(String.java:2707)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:677)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:57)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:52)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:51)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.01.18 18:13:28 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:13:34 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:13:35 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:14:19 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:14:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:14:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum copy.scala[0m
+2023.01.18 18:14:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:14:31 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:14:37 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:14:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:14:44 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:14:49 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:14:53 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:14:53 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:14:57 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:14:57 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:15:00 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:15:03 INFO  time: code lens generation in 3s[0m
+Jan 18, 2023 6:15:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 444
+Jan 18, 2023 6:15:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 449
+Jan 18, 2023 6:15:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 455
+2023.01.18 18:15:03 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:15:08 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:15:11 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+Exception in thread "pool-3-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.01.18 18:15:14 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+Jan 18, 2023 6:15:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 490
+Jan 18, 2023 6:15:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 489
+Jan 18, 2023 6:15:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 491
+2023.01.18 18:15:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:15:19 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:15:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:22 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+Jan 18, 2023 6:16:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 561
+2023.01.18 18:16:29 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:33 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:38 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:45 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:49 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:16:53 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:17:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:17:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:17:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:17:19 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:17:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:17:22 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:17:24 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:18:33 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:18:57 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:18:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:19:02 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:19:03 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:19:14 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:19:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:20:57 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:20:58 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:20:58 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:21:37 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:21:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:21:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:21:44 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:22:34 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:22:36 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:22:38 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:22:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:22:43 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template.scala[0m
+2023.01.18 18:22:44 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:22:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.18 18:22:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:22:49 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+Exception in thread "pool-3-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.01.18 18:22:50 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:23:09 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/Template copy.scala[0m
+2023.01.18 18:23:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.18 18:23:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.18 18:23:25 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.18 18:23:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.18 18:23:31 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.18 18:23:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:23:43 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:23:44 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.18 18:23:53 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.18 18:23:55 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:40:26 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:40:27 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:43:26 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 11:43:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1154
+Jan 19, 2023 11:43:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1205
+2023.01.19 11:43:35 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:43:37 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:43:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:43:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:43:49 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:43:58 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:01 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:06 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:08 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:10 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:19 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:26 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:32 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:35 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:38 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:43 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:44:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:45:43 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:45:47 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:45:50 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:45:57 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:45:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:01 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:06 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:14 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:36 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:39 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 11:46:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1780
+2023.01.19 11:46:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:45 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:50 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:54 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:46:55 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 11:46:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1824
+2023.01.19 11:46:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:09 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:16 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:44 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:51 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:53 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:47:54 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:48:01 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:48:02 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:48:08 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:48:10 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:48:16 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:48:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:48:26 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:10 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:12 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:19 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:24 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:24 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:27 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:31 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:47 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:49 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:50 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:56 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 11:49:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2412
+2023.01.19 11:49:58 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:49:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:02 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:39 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:43 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:44 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:50 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:53 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:55 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:57 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:50:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:25 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:26 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:29 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:55 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:51:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:52:06 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:52:11 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:52:17 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:52:22 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:53:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:53:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:53:34 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:54:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:54:11 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:28 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 11:56:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2801
+2023.01.19 11:56:33 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:36 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:38 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:45 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:50 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:51 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:56:54 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:01 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:03 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:14 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:33 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 11:57:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3082
+Jan 19, 2023 11:57:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3081
+2023.01.19 11:57:47 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:55 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:56 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:57:58 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:00 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:08 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:13 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:17 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:24 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:41 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:42 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:43 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:52 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:58:52 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:09 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:11 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:27 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:30 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:34 INFO  time: code lens generation in 1.3s[0m
+2023.01.19 11:59:34 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:36 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:53 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 11:59:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3549
+2023.01.19 11:59:55 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 11:59:58 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:03 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+Jan 19, 2023 12:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3588
+2023.01.19 12:00:26 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:29 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:37 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:40 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:44 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:45 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:49 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:51 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:51 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:00:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:15 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:17 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:19 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:25 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:32 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:33 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:34 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:46 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:47 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:52 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:57 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:01:58 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:08 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:32 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:35 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:38 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:02:48 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:03:01 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:03:04 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:03:06 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:03:17 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:04:17 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:04:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:04:20 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:03 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:05 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:12 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:17 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
