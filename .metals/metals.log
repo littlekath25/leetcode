@@ -492,3 +492,4 @@ SLF4J: Ignoring binding found at [jar:file:/Users/katherine/Library/Caches/Cours
 SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.01.20 13:24:04 INFO  time: initialize in 1.6s[0m
 2023.01.20 13:24:09 WARN  Build server is not auto-connectable.[0m
+2023.01.20 13:33:56 INFO  shutting down Metals[0m
