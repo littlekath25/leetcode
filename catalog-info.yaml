@@ -6,10 +6,6 @@ metadata:
   annotations:
     github.com/project-slug: littlekath25/leetcode
     backstage.io/techdocs-ref: dir:.
-  links:
-    - url: https://dhlparcel.slack.com/archives/CUUV52615
-      title: Slack
-      icon: help
 spec:
   type: service
   lifecycle: production
