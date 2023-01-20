@@ -4,7 +4,7 @@ metadata:
   name: dhl-parcel-production-platform
   description: Parcel Production Platform
   annotations:
-    github.com/project-slug: https://github.com/littlekath25/leetcode
+    github.com/project-slug: littlekath25/leetcode
     backstage.io/techdocs-ref: dir:.
   tags:
     - Scala
