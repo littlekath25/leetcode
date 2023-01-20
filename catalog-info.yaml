@@ -1,15 +1,7 @@
 apiVersion: backstage.io/v1alpha1
-kind: System
-metadata:
-  name: dhl-ppp
-  description: Parcel Production Platform
-spec:
-  owner: ppp-users
----
-apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: dhl-ppp
+  name: dhl-parcel-production-platform
   description: Parcel Production Platform
   annotations:
     github.com/project-slug: https://github.com/littlekath25/leetcode
