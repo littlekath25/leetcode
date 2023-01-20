@@ -12,7 +12,7 @@ metadata:
   name: dhl-ppp
   description: Parcel Production Platform
   annotations:
-    github.com/project-slug: https://github.com/dhlparcel/ppp
+    github.com/project-slug: https://github.com/littlekath25/leetcode
     backstage.io/techdocs-ref: dir:.
   tags:
     - Scala
