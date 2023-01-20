@@ -12,7 +12,6 @@ metadata:
     - url: https://dhlparcel.slack.com/archives/CUUV52615
       title: Slack
       icon: help
-
 spec:
   type: service
   lifecycle: production
