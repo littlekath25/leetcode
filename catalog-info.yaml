@@ -4,8 +4,14 @@ metadata:
   name: dhl-parcel-production-platform
   description: Parcel Production Platform
   annotations:
-    github.com/project-slug: littlekath25/leetcode
+    github.com/project-slug: https://github.com/dhlparcel/ppp
     backstage.io/techdocs-ref: dir:.
+  tags:
+    - scala
+  links:
+    - url: https://dhlparcel.slack.com/archives/CUUV52615
+      title: Slack
+      icon: help
 spec:
   type: service
   lifecycle: production
