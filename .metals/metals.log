@@ -470,3 +470,14 @@ WARNING: Unmatched cancel notification for request id 3588
 2023.01.19 12:05:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
 2023.01.19 12:05:21 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
 2023.01.19 12:05:23 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:05:47 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/IsPalindrome.scala[0m
+2023.01.19 12:05:59 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:00 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:03 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:07 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:09 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:11 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:14 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:18 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/RomanToInterger.scala[0m
+2023.01.19 12:06:22 WARN  no build target for: /Users/katherine/Desktop/Personal/leetcode/src/main/scala/easy/TwoSum.scala[0m
+2023.01.19 14:11:01 INFO  shutting down Metals[0m

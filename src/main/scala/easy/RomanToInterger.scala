@@ -25,6 +25,6 @@ object RomanToInterger {
     }
     result._1.sum
 
-  def main(args: Array[String]): Unit =
-    println(romanToInt("LVIII"))
+  // def main(args: Array[String]): Unit =
+  //   println(s"RomanToInterger: ${romanToInt("LVIII")}")
 }

@@ -1,0 +1,27 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: dhl-ppp
+  description: Parcel Production Platform
+spec:
+  owner: ppp-users
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dhl-ppp
+  description: Parcel Production Platform
+  annotations:
+    github.com/project-slug: https://github.com/dhlparcel/ppp
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - Scala
+  links:
+    - url: https://dhlparcel.slack.com/archives/CUUV52615
+      title: Slack
+      icon: help
+
+spec:
+  type: service
+  lifecycle: production
+  owner: ppp-users
